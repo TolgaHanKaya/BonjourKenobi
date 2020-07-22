@@ -13,6 +13,7 @@
 		F197053D24C7CD310088251D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F197053B24C7CD310088251D /* Main.storyboard */; };
 		F197053F24C7CD320088251D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F197053E24C7CD320088251D /* Assets.xcassets */; };
 		F197054224C7CD320088251D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F197054024C7CD320088251D /* LaunchScreen.storyboard */; };
+		F197054A24C7CF7E0088251D /* Screen Shot 2020-07-14 at 03.49.21.png in Resources */ = {isa = PBXBuildFile; fileRef = F197054924C7CF7E0088251D /* Screen Shot 2020-07-14 at 03.49.21.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F197053E24C7CD320088251D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F197054124C7CD320088251D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F197054324C7CD320088251D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F197054924C7CF7E0088251D /* Screen Shot 2020-07-14 at 03.49.21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-07-14 at 03.49.21.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F197053924C7CD310088251D /* ViewController.swift */,
 				F197053B24C7CD310088251D /* Main.storyboard */,
 				F197053E24C7CD320088251D /* Assets.xcassets */,
+				F197054924C7CF7E0088251D /* Screen Shot 2020-07-14 at 03.49.21.png */,
 				F197054024C7CD320088251D /* LaunchScreen.storyboard */,
 				F197054324C7CD320088251D /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F197054224C7CD320088251D /* LaunchScreen.storyboard in Resources */,
+				F197054A24C7CF7E0088251D /* Screen Shot 2020-07-14 at 03.49.21.png in Resources */,
 				F197053F24C7CD320088251D /* Assets.xcassets in Resources */,
 				F197053D24C7CD310088251D /* Main.storyboard in Resources */,
 			);
